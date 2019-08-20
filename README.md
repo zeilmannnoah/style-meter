@@ -17,7 +17,7 @@ A [`play-sound`](https://github.com/shime/play-sound#options) compatible audio p
 
 ## Settings
 
-- `styleMeter.musicFilePath`: Sets a local file to play music from.
+- `styleMeter.musicFilepath`: Sets a local file to play music from.
 - `styleMeter.maxVolume`: Sets the max volume from 0 to 1 that the music will play at.
 - `styleMeter.gainFactor`: Easy mode is now selectable. Sets a multiplier to style points gained.
 - `styleMeter.degradationFactor`: Sets a multiplier to style points lost over time.
